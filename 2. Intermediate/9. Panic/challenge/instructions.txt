@@ -1,0 +1,9 @@
+1. Create a function (checkPassword) which will take password as a parameter
+
+2. Inside that function check if the password is less then 8 show panic message
+    panic("Password should be 8 characters")
+
+3. Otherwise print
+    fmt.Println("Valid Password :)")
+
+4. Call checkPassword function in main func.
