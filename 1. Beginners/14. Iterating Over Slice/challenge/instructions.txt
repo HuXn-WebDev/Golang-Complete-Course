@@ -1,0 +1,11 @@
+Iterate over this massive slice & print each member with index
+
+Result should look like this 👇
+
+0 - Rémi Denis-Courmont
+1 - Jean-Baptiste Kempf
+2 - Laurent Aimar
+3 - Gildas Bazin
+4 - Felix Paul Kühne
+5 - Rafaël Carré
+...
