@@ -1,0 +1,7 @@
+1. Create a hour variable and set that to 12
+
+2. If the hour is greater then or equal to 6 & hour is less then 12 print("Good Morning")
+
+3. If the hour is greater then or equal to 12 & hour is less then 18 print("Good Afternoon")
+
+4. If all conditions failed print("Good Evening")
