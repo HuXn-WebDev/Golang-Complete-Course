@@ -1,0 +1,6 @@
+1. Create variable name (myNameIs)
+2. Store your name side it
+3. Create variable name (info)
+4. Log This message to the console 👇
+`My name is (yourName) & I'm (yourAge) years old`
+5. Log everything to the console
