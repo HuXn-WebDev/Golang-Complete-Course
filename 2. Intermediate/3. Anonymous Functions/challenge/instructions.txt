@@ -1,0 +1,1 @@
+Create anonymous function which will take unlimited amount of parameters and double them.
