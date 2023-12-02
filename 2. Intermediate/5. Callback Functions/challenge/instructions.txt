@@ -1,0 +1,5 @@
+1. Creat a function which will just return "hello"
+
+2. Creat a function which will just return "World"
+
+3. Create a function (run) which will take function as an parameter and then call that "parameter function" inside the run function.
