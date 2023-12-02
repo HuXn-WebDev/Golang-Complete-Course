@@ -1,0 +1,17 @@
+1. Create a movie struct with the following properties
+    [title String]
+    [mType string]
+	[rating int]
+	comments
+
+2. Create comments struct with the following properties
+    [author string]
+    [body string]
+
+3. Create instance of these structs and provide your favorite values 
+
+4. Finnaly print the result as follows
+
+	fmt.Println("My Favorite Movie " + "(" + MOVIE TITLE HERE + ")" + " has", MOVIE RATING, "Ratings")
+
+	fmt.Println(m.comments.author + " say's : " + m.comments.body)
