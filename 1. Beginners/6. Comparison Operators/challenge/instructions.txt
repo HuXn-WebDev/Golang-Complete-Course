@@ -1,0 +1,8 @@
+1. Create a variable name (number)
+2. store 20 as a value
+3. Check if the number is greater then 10
+4. Check if the number is less then 10
+5. Check if the number is greater then or equal to 10
+6. Check if the number is less then or equal to 10
+7. Check if the number is equal to number
+8. Check if the number is not equal to number
