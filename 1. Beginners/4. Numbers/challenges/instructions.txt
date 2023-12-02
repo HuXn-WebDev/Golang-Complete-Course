@@ -1,0 +1,6 @@
+1. Create variable name (lgNumber)
+2. Store 1000 as a value
+3. Add that variable with itself
+4. Subtract that variable by itself
+5. Multiply that variable with itself
+6. Divide that variable with itself
