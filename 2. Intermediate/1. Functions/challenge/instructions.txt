@@ -1,0 +1,5 @@
+1. Create function name (greet) which will take two parameters (firstName, lastName) and just greet to the user by their first name and last name.
+
+2. Create function name (double) which will take unlimited amount of parameters and just double that.
+
+3. Create function name (itter) which will take slice, just iterate over the slice print the index and the value, which is provided as a slice.
