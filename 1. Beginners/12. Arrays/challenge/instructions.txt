@@ -1,0 +1,3 @@
+1. Create array of 5 integers & log it to the console
+2. Create friends array & store 3 friends inside it
+3. Print arrays to the console
