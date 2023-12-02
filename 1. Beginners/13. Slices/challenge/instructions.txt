@@ -1,0 +1,13 @@
+1. Create numbers slice & store random numbers of your choice
+
+2. Log all numbers which are stored in the slice
+
+3. Log numbers from 0 through 5 index
+
+4. Now append 5 more random numbers to that exsisting slice
+
+5. Create slice using make built in function (type: int)
+(size: 5)
+(capacity: 20)
+
+6. Print everything.
