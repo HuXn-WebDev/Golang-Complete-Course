@@ -1,0 +1,5 @@
+1. Create variable name (huxnProgrammer)
+2. Store true as a value
+3. Create variable name (huxnLoser)
+4. Store false as a value
+5. Print all variables in the console
