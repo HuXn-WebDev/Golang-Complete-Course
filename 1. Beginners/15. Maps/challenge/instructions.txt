@@ -1,0 +1,21 @@
+1. Create a userInfo map with three users & give each user different profession for example:
+
+    "huxn": "Full-Stack Developer",
+    "john": "Front-End Developer",
+    "jordan": "Back-End Developer",
+
+2. Add new user (Kumar) with different profession 
+
+3. Print userInfo
+
+4. Now delete "huxn" from userInfo
+
+5. Create randNums map and store the following data
+
+        0: 10,
+		1: 20,
+		2: 30,
+		3: 40,
+		4: 50,
+
+6. Now log it to the console
