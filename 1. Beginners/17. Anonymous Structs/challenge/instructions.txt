@@ -1,0 +1,1 @@
+Take your previous challenge code and make structs annonymous, finally test your code
