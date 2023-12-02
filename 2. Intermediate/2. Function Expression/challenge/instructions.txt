@@ -1,0 +1,1 @@
+1. Create a function and store it in (double) variable, which will take unlimited amount of parameters and double them.
