@@ -1,0 +1,9 @@
+Perform this challenge using switch statment 
+
+1. Create variable (role) and store "guest" as a value
+
+2. If the role is equal to "guest" print("Guest User")
+
+3. If the role is equal to "moderator" print("Moderator User")
+
+4. If role doesn't match print("Unknown User") 
