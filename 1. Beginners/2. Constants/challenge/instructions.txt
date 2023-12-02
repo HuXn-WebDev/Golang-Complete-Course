@@ -1,0 +1,4 @@
+1. Creat constant name (myConst)
+2. Store 20 as a value
+3. Create (x, y, z) in one go
+4. Log all constants to the console
