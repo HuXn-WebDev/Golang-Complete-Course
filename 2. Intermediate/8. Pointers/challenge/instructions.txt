@@ -1,0 +1,3 @@
+1. Create two variables (apple, orange) & print their address
+2. Swap their values 
+3. Print values
