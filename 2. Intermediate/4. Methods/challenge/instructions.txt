@@ -1,0 +1,18 @@
+1. Create human struct which will take the following properties
+    [gender   string]
+	[fullName string]
+	[age      int]
+	friends
+
+2. Create friends struct which will take the following properties
+	[justFriends int]
+	[bestFriend  string]
+
+3. Create method (printInfo) which will take "human" as a parameter
+
+4. Log this message 👇
+ "My name is", (YOUR NAME), "Gender:", (YOUR GENDER), "Age:", (YOUR AGE), "I have", (YOUR FRIENDS), "Friends but my best friend is", (YOUR BEST FRIEND)
+
+5. Create instance of human struct and provide your favorite values to each property
+
+6. Call printInfo method on human
