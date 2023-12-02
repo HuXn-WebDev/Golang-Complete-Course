@@ -1,0 +1,5 @@
+1. Create a function (multiply) which will take two parameters and multiply them
+
+2. Create a function (printMessage) which will just print("Hello HuXn")
+
+3. In the main function call multiply function with defer keyword, underneath that call printMessage function and see which function runs first.
